@@ -8,12 +8,12 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: Economics
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
-  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+  name: Instituto Tecnológico y de Estudios Superiores de Monterrey.
+  url: "https://tec.mx/es/derecho-economia-y-relaciones-internacionales/licenciado-en-economia"
  
 # Tu CV
 resume: "files/cv.pdf"
